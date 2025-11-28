@@ -87,22 +87,3 @@ Variant B delivered **higher conversions, better engagement & a 55% lift in purc
 ✔ Business Insight Derivation & Recommendation  
 
 ---
-
-### ⭐ Ideal for Resume & Interview Talking Points
-
-This project demonstrates your ability to:
-
-> Turn business problems into analytical questions, derive insights, validate decisions through data, and recommend solutions — exactly what companies expect in analytics roles.
-
----
-
-If you want, I can generate:
-
-📌 GitHub-style badges + screenshots  
-📌 Power BI Dashboard visuals  
-📌 PPT deck for interview presentation  
-📌 Jupyter Notebook version of code  
-
-Just say **"Make PPT"**, **"Convert into Notebook"** or **"Add dashboard visuals"** 🚀  
-Let’s make your portfolio unbeatable! 💥🔥
-
