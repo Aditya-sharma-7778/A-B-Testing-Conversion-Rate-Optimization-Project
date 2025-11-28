@@ -1,4 +1,4 @@
-📊 A/B Testing – Conversion Rate Optimization Project
+<h1>📊 A/B Testing – Conversion Rate Optimization Project</h1>
 📌 Objective
 
 This project analyzes whether a new product page UI (Variant B) performs better than the existing UI (Variant A) in an e-commerce platform.
@@ -13,7 +13,7 @@ Visualization	Matplotlib Graphs & Comparison Charts
 📂 Project Files
 File	Purpose
 ab_test_dataset.csv	Dataset used for analysis (2000 user records)
-ab_test_analysis.py	Full Python script with analysis + visualizations
+ab_test_analysis_main.py	Full Python script with analysis + visualizations
 AB_Test_Project_Report_main.pdf	Summary report for review & presentation
 README.md	Project documentation (you are reading it)
 🔍 Analysis Steps Followed
